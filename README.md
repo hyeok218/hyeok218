@@ -41,5 +41,6 @@
   
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janggur2)](https://solved.ac/janggur2/)-->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeok218&show_icons=true&theme=radical) -->
+<!-- ! -->
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeok218&show_icons=true&theme=radical)
 </div>
