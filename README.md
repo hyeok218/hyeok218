@@ -12,7 +12,7 @@
   
  <br/>
  
-#### main  
+#### main skill 
 
 <img src="https://img.shields.io/badge/Unity-007396?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-6DB33F?style=for-the-badge&logo=Csharp&logoColor=white">
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Unreal Engine-007ACC?style=for-the-badge&logo=Unreal Engine&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-#### sub  
+#### sub skill
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
