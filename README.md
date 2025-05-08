@@ -16,6 +16,7 @@
 
 
 <img src="https://img.shields.io/badge/React-007396?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/Unity-007396?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-6DB33F?style=for-the-badge&logo=Csharp&logoColor=white">
 <img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -25,7 +26,6 @@
 #### sub skill
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/C-F80000?style=for-the-badge&logo=C&logoColor=white"> 
 <img src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=Python&logoColor=white">
