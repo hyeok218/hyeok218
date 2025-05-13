@@ -22,13 +22,14 @@
 <img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Unreal Engine-007ACC?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=Python&logoColor=white">
 
 #### sub skill
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/C-F80000?style=for-the-badge&logo=C&logoColor=white"> 
 <img src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=Python&logoColor=white">
+
 
 
  
