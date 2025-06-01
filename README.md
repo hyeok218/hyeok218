@@ -10,9 +10,7 @@
   
 ####  :clipboard:Skills
   
- <br/>
  
-#### main skill 
 
 
 <img src="https://img.shields.io/badge/React-007396?style=for-the-badge&logo=React&logoColor=white">
